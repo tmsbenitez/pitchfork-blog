@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.serif {
+  font-family: 'DM Serif Display', serif;
+}
+
+.blog-post {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  font-family: 'Lora', serif;
+  font-size: 1rem;
+}
+
+.blog-post h3 {
+  font-size: 1.9rem;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 800;
+  line-height: 2.5rem;
+}
+
+.blog-post a {
+  text-decoration: underline;
+  transition: 150ms;
+}
+
+.blog-post a:hover {
+  color: red;
+  text-decoration: none;
+}
