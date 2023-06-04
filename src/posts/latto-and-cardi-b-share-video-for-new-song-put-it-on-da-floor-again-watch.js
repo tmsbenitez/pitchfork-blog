@@ -8,6 +8,6 @@ Latto released 777 last year, and it contributed to her being nominated for Best
 “Put It on da Floor Again” marks Cardi B’s first guest appearance of 2023. Last year, she appeared on “No Love (Extended),” “Shake It,” “Tomorrow 2,” “Despechá Rmx,” and “The Seaweed Sway,” as well as her own “Hot Shit.”
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WtNCR3EDS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="w-full" height="315" src="https://www.youtube.com/embed/-WtNCR3EDS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 `

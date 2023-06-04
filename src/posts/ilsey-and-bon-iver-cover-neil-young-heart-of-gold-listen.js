@@ -8,6 +8,6 @@ Ilsey is the moniker of pop singer-songwriter Ilsey Juber. She has co-written Be
 Earlier this year, Bon Iver and Lonnie Holley shared the collaborative song “Kindness Will Follow Your Tears.” Justin Vernon’s old band, DeYarmond Edison, recently announced the retrospective box set Epoch.
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfaaStdN8Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="w-full" height="315" src="https://www.youtube.com/embed/lfaaStdN8Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 `

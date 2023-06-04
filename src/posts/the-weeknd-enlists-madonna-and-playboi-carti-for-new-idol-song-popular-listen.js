@@ -10,6 +10,6 @@ The Idol has had a rough ride since a Rolling Stone exposé publicized allegatio
 Playboi Carti was arrested earlier this year for allegedly assaulting and choking his pregnant girlfriend. His lawyer said he was falsely accused.
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnvkStb2jT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="w-full" height="315" src="https://www.youtube.com/embed/xnvkStb2jT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 `
