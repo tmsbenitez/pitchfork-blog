@@ -7,7 +7,7 @@
     </h2>
     <div class="flex flex-col gap-6">
       <p class="text-red-500 text-sm uppercase font-bold">
-        This website was created with educational intentions, without any revenue.
+        This website was created with educational purpose, without any revenue.
       </p>
       <div class="flex gap-2 flex-col md:flex-row">
         <input
